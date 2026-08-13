@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-c2pjlj.vestinam.com/sitemap.xml
